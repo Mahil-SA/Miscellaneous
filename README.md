@@ -36,7 +36,43 @@ int main()
 }
 
 //Program 2 (Operator Overloading)
-
+#include<iostream>
+using namespace std;
+class Complex
+{
+    private:
+    float real;
+    float imag;
+    public:
+    Complex(float r = 0, float i = 0)
+    {
+        real = r;
+        imag = i;
+    }
+    Complex operator + (const Complex &obj)
+    {
+        Complex temp;
+        temp.real = real+obj.real;
+        temp.imag = imag+obj.imag;
+        return temp;
+    }
+    void display()const
+    {
+        cout<<real<<"+"<<imag<<"i"<<endl;
+    }
+};
+int main()
+{
+    Complex c1(3.5, 2.5);
+    Complex c2(1.6, 3.7);
+    Complex c3 = c1+c2;
+    cout<<"First complex number: ";
+    c1.display();
+    cout<<"Second complex number: ";
+    c2.display();
+    cout<<"Third complex number: ";
+    c3.display();
+}
 ~~~
 
 ## Conclusion
@@ -47,5 +83,6 @@ In C++ we have learnt about constructors and constructor overloading.
 ![image](https://github.com/user-attachments/assets/4be9d0dc-ac3f-4323-b1dc-ce4bdba293eb)
 
 ### Program 2 (Operator Overloading)
+![image](https://github.com/user-attachments/assets/0797bf75-7d98-4560-8194-035b15c8f206)
 
 ### Program 3
