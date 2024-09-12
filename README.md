@@ -73,6 +73,11 @@ int main()
     cout<<"Third complex number: ";
     c3.display();
 }
+
+//Program 2 (Single Inheritance)
+
+// Program 4 (Multiple Inheitance)
+
 ~~~
 
 ## Conclusion
@@ -85,4 +90,6 @@ In C++ we have learnt about constructors and constructor overloading.
 ### Program 2 (Operator Overloading)
 ![image](https://github.com/user-attachments/assets/0797bf75-7d98-4560-8194-035b15c8f206)
 
-### Program 3
+### Program 3 (Single Inheritance)
+
+### Program 4 (Multiple Inheitance)
