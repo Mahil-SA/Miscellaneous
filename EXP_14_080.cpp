@@ -54,6 +54,7 @@ Estalished:
 The band is: One Direction
 Established: 2003
 */
+
 // Program 2 (Multiple Inheitance)
 #include <iostream>
 using namespace std;
@@ -140,3 +141,5 @@ int main()
 Shark is hunting.
 The shark caught it's prey.
 */
+
+//Program 5 (Heirarchical Inheritance)
