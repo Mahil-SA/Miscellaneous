@@ -30,3 +30,4 @@ int main()
 Enter the number you want factorial of: 5
 The factorial of 5 is 120.
 */
+
