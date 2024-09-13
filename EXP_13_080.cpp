@@ -79,7 +79,3 @@ First complex number: 3.5+2.5i
 Second complex number: 1.6+3.7i
 Third complex number: 5.1+6.2i
 */
-
-// Program 3 (Single Inheritance)
-
-//Program 4 (Multiple Inheritance)
