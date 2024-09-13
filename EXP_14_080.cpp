@@ -183,41 +183,8 @@ int main()
 
 //Output
 /*
-#include<iostream>
-using namespace std;
-class Bike
-{
-    public:
-    void Horsepower()
-    {
-        cout<<"Higher horsepower means higher speed."<<endl;
-    }
-};
-class Activa : public Bike
-{
-    public:
-    void small()
-    {
-        cout<<"Activa has 7 bhp."<<endl;
-    }
-};
-class RE_Classic_350 : public Bike
-{
-    public:
-    void big()
-    {
-        cout<<"Classic 350 has 20 bhp."<<endl;
-    }
-};
-
-int main()
-{
-    Activa d;
-    RE_Classic_350 c;
-    d.Horsepower();
-    d.small();
-    c.Horsepower();
-    c.big();
-    return 0;
-}
+Higher horsepower means higher speed.
+Activa has 7 bhp.
+Higher horsepower means higher speed.
+Classic 350 has 20 bhp.
 */
