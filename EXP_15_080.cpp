@@ -63,3 +63,32 @@ Enter the numbers for fibonacci:
 10
 The fibonacci number is: 55
 */
+
+//Program 3 (Find sum of n natural numbers using recursion, n is the value entered by the user.)
+#include<iostream>
+using namespace std;
+int nat(int n)
+{
+    if(n==1)
+    {
+        return 1;
+    }
+        else
+        {
+            return n+nat(n-1);
+        }
+}
+int main()
+{
+    int n;
+    cout<<"Enter the numbers you want to add: "<<endl;
+    cin>>n;
+    cout<<"The sum of the numbers is: "<<nat(n);
+}
+
+/Output
+/*
+Enter the numbers you want to add: 
+10
+The sum of the numbers is: 55
+*/
