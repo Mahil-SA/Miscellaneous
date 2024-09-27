@@ -31,3 +31,35 @@ Enter the number you want factorial of: 5
 The factorial of 5 is 120.
 */
 
+//Program 2 (Find fibonacci number in the fibnacci sequence using recursion.)
+#include<iostream>
+using namespace std;
+int fib(int n)
+{
+    if(n==0)
+    {
+        return 0;
+    }
+        if(n==1)
+        {
+            return 1;
+        }
+        else
+        {
+            return fib(n-1)+fib(n-2);
+        }
+}
+int main()
+{
+    int n;
+    cout<<"Enter the numbers for fibonacci: "<<endl;
+    cin>>n;
+    cout<<"The fibonacci number is: "<<fib(n);
+}
+
+//Output
+/*
+Enter the numbers for fibonacci: 
+10
+The fibonacci number is: 55
+*/
