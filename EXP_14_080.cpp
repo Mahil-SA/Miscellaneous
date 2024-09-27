@@ -142,7 +142,7 @@ Shark is hunting.
 The shark caught it's prey.
 */
 
-//Program 5 (Heirarchical Inheritance)
+//Program 4 (Heirarchical Inheritance)
 #include<iostream>
 using namespace std;
 class Bike
