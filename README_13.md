@@ -1,25 +1,18 @@
 # Miscellaneous
-This repository contains experiments 13 which are related to other types of data structures in C++.
+This repository contains experiments 13 which are related to function and operator overloading in C++.
 
-# Data Structures
+# Functon overloading and operator overloading.
 # EXPERIMENT 13:
 ## Aim: 
-To study and implement data structures.
+To study and implement Functon overloading and operator overloading.
 ## Theory: 
-Data structures in C++ are specialized formats for organizing, managing, and storing data efficiently. They enable developers to perform operations on data effectively, making it easier to access and manipulate.
+In C++, function overloading and operator overloading are two powerful features that allow you to define multiple behaviors for functions and operators, respectively, based on their parameters or types.
 
-Common data structures in C++ include:
+**Function Overloading**
+Function overloading allows you to define multiple functions with the same name but different parameter lists. The compiler differentiates these functions based on the number or type of parameters.
 
-**Arrays**: Fixed-size collections of elements of the same type.
-**Structures**: User-defined data types that group related variables.
-**Classes**: Encapsulate data and functions, supporting object-oriented programming.
-**Linked Lists**: Collections of nodes where each node points to the next, allowing dynamic size.
-**Stacks**: Last-in, first-out (LIFO) structures for managing data.
-**Queues**: First-in, first-out (FIFO) structures for handling data.
-**Trees**: Hierarchical structures that represent data in a parent-child relationship.
-**Graphs**: Collections of nodes connected by edges, used to model relationships.
-C++ provides both built-in and standard template library (STL) data structures, enabling efficient data handling and manipulation.
-
+**Operator Overloading**
+Operator overloading allows you to define custom behavior for operators (like +, -, *, etc.) when they are used with user-defined types (like classes). This makes your objects behave more like built-in types.
 ~~~
 CODE:
 
@@ -87,7 +80,7 @@ int main()
 ~~~
 
 ## Conclusion
-In C++ we have learnt about data structures in C++.
+In C++ we have learnt about function and operator overloading in C++.
 
 ## Output
 ### Program 1
