@@ -34,7 +34,6 @@ Addition of 3 integers: 6
 */
 
 //Program 2 (Operator Overloading)
-//Program 2 (Operator Overloading)
 #include<iostream>
 using namespace std;
 class Complex
