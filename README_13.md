@@ -1,14 +1,25 @@
 # Miscellaneous
 This repository contains experiments 13 which are related to other types of data structures in C++.
 
-# COnstructor Overloading
+# Data Structures
 # EXPERIMENT 13:
 ## Aim: 
-To study and implement constructor overloading.
+To study and implement data structures.
 ## Theory: 
-Constructor overloading in object-oriented programming is a feature that allows a class to have more than one constructor, each with a different parameter list.
+Data structures in C++ are specialized formats for organizing, managing, and storing data efficiently. They enable developers to perform operations on data effectively, making it easier to access and manipulate.
 
-This means you can create objects in different ways, depending on the arguments passed when the object is instantiated.
+Common data structures in C++ include:
+
+**Arrays**: Fixed-size collections of elements of the same type.
+**Structures**: User-defined data types that group related variables.
+**Classes**: Encapsulate data and functions, supporting object-oriented programming.
+**Linked Lists**: Collections of nodes where each node points to the next, allowing dynamic size.
+**Stacks**: Last-in, first-out (LIFO) structures for managing data.
+**Queues**: First-in, first-out (FIFO) structures for handling data.
+**Trees**: Hierarchical structures that represent data in a parent-child relationship.
+**Graphs**: Collections of nodes connected by edges, used to model relationships.
+C++ provides both built-in and standard template library (STL) data structures, enabling efficient data handling and manipulation.
+
 ~~~
 CODE:
 
@@ -76,11 +87,11 @@ int main()
 ~~~
 
 ## Conclusion
-In C++ we have learnt about constructors and constructor overloading.
+In C++ we have learnt about data structures in C++.
 
 ## Output
-### Program 1 (Function Overloading)
+### Program 1
 ![image](https://github.com/user-attachments/assets/4be9d0dc-ac3f-4323-b1dc-ce4bdba293eb)
 
-### Program 2 (Operator Overloading)
+### Program 2
 ![image](https://github.com/user-attachments/assets/0797bf75-7d98-4560-8194-035b15c8f206)
