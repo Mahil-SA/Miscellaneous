@@ -101,7 +101,7 @@ int main()
 ## Conclusion
 In C++ we have learnt about stack implementation in C++.
 
-##Outputs
+## Outputs
 
-###Program 1 
+### Program 1 
 ![image](https://github.com/user-attachments/assets/2e93fac6-f27e-4ed5-95c3-648c70f336fe)
