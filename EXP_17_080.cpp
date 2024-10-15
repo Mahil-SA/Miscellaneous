@@ -1,4 +1,4 @@
-//Experiment 16 - To study and implement about exception handling.
+//Experiment 17 - To study and implement about linked lists.
 //Name - Mahil Anthony
 //PRN -  23070123080
 //Batch -  ENTC B1
