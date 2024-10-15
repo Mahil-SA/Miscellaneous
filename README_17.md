@@ -74,8 +74,8 @@ In C++ we have learnt about how to create a node and about linked lists.
 
 ## Outputs
 
-###Program 1
+### Program 1
 ![image](https://github.com/user-attachments/assets/b2eb4c20-c9f8-4709-9a9f-10ad9cfc1903)
 
-###Program 2
+### Program 2
 ![image](https://github.com/user-attachments/assets/1e5bd0bc-8fbb-46de-8556-3e9cb9d5959e)
