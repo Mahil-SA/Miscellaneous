@@ -1,7 +1,7 @@
 # Miscellaneous
 This repository contains experiments which are related to miscellaneous stuff in C++.
 
-# Inheritance
+# Sorting
 # EXPERIMENT 20:
 ## Aim: 
 To study sorting in C++.
