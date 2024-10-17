@@ -6,7 +6,7 @@ This repository contains experiments which are related to miscellaneous stuff in
 ## Aim: 
 To study sorting in C++.
 ## Theory: 
-A Sorting Algorithm is used to rearrange a given array or list of elements according to a comparison operator on the elements. The comparison operator is used to decide the new order of elements in the respective data structure.
+The Sorting Algorithm is used to rearrange a given array or list of elements according to a comparison operator on the elements. The comparison operator is used to decide the new order of elements in the respective data structure.
 
 Selection Sort is a comparison-based sorting algorithm.
 
